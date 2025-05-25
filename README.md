@@ -1,2 +1,2 @@
 # Edgefire-X
-EdgeFire X digitally controlled analog guitar pedal by THE.IB
+EdgeFire X - digitally controlled analog distortion guitar pedal by THE.IB
